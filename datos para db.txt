@@ -1,0 +1,31 @@
+Chofer
+
+NOmbre Apellido
+DNI
+Fecha de Nacimiento
+Nro Telefono
+Direccion
+Estado Civil
+Vehiculo
+
+Vehiculo
+idVehiculo
+Marca y Modelo
+Año
+Patente
+Nro Chasis
+Nro Motor
+Chofer
+
+Pago
+
+idPago
+FechaHora
+NombreChofer
+Vehiculo
+Monto
+
+ 
+
+
+
